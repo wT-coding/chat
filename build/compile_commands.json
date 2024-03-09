@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /root/chat/src/server/chatservice.cpp",
+  "file": "/root/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/main.cpp.o -c /root/chat/src/server/main.cpp",
+  "file": "/root/chat/src/server/main.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /root/chat/src/server/chatserver.cpp",
+  "file": "/root/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/chat/src/server/db/db.cpp",
+  "file": "/root/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /root/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/root/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /root/chat/src/server/model/usermodel.cpp",
+  "file": "/root/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /root/chat/src/server/model/groupmodel.cpp",
+  "file": "/root/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /root/chat/src/server/model/friendmodel.cpp",
+  "file": "/root/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/root/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /root/chat/src/server/redis/redis.cpp",
+  "file": "/root/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/root/chat/build/src/client",
+  "command": "/usr/bin/g++    -g -g -I/root/chat/include -I/root/chat/include/server -I/root/chat/include/server/db -I/root/chat/include/server/model -I/root/chat/include/server/redis -I/root/chat/thirdparty    -std=c++11 -o CMakeFiles/ChatClient.dir/main.cpp.o -c /root/chat/src/client/main.cpp",
+  "file": "/root/chat/src/client/main.cpp"
+}
+]
